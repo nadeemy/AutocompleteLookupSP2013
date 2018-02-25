@@ -1,6 +1,6 @@
 # AutocompleteLookupSP2013
 Autocomplete Lookup field allows type ahead functionality while entering lookup values in list items.
-It uses REST for specifying filters.
+It uses REST for specifying filters. The WSP file can be downloaded from here: https://github.com/nadeemy/AutocompleteLookupSP2013/releases/download/1.0/NY.Autocomplete.LookupField.wsp
 
 # Deployment steps
 
