@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="95f706d2-2005-4a89-89d5-b5e247e20a92" solutionId="95f706d2-2005-4a89-89d5-b5e247e20a92" resetWebServer="false" sharePointProductVersion="15.0" name="NY.Autocomplete.LookupField" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="e8bb9217-121a-4fca-9cdc-7d8daf8e5a58" />
+    <projectItemReference itemId="84d16052-e2cf-45d8-9bcb-d159394d721b" />
+    <projectItemReference itemId="ebcdc194-97e2-4ba7-8d20-c4856994a21e" />
+  </projectItems>
+</package>
